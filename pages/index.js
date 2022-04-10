@@ -135,7 +135,7 @@ const Home = () => {
 
       </div>
     
-      <section className='bg-white w-full lg:w-72 h-full p-6 rounded-2xl text-gray-blue flex flex-col justify-between shadow-2xl'>
+      <section className='bg-white w-full lg:w-72 h-full p-6 rounded-2xl text-gray-blue flex flex-col justify-between shadow-2xl mb-10 lg:mb-0'>
           <div className='flex flex-row w-full mb-4 h-auto items-center gap-2'>
             <Image
             src="/images/kira.jpg"
