@@ -41,7 +41,7 @@ const Home = () => {
           <div className="flex flex-col justify-between z-10">
           <h2 className='text-md font-bold mb-3 lg:mb-0'>
             I received a job offer mid-course, and the subjects I learned were current, if not more so, in the company I joined.
-            I was honestly feel I get every penny's worth
+            I was honestly feel I get every penny&apos;s worth
           </h2>
           <p className='mt-1 translucent-white'>&quot;I was an EMT for many years before I joined the bootcamp. I&apos;ve been looking to make a transition and have heard some people who had an amazing experience here. 
             I signed up for the free intro course and found it incredibly fun! I enrolled shortly thereafter. The next 12 
@@ -73,7 +73,7 @@ const Home = () => {
             The team was very supportive and kept me motivated
           </h2>
           <p className='mt-1 translucent-white'>&quot;I started as a total newbie with virtuall no coding skills. 
-          I now work as a mobile engineer for a big company. This was one of the best investments I'&apos;ve made in myself&quot;</p>
+          I now work as a mobile engineer for a big company. This was one of the best investments I&apos;ve made in myself&quot;</p>
           </div>
         </section>
 
@@ -162,7 +162,7 @@ const Home = () => {
           I was encouraged to enroll by a former student of theirs who can only say wonderful things about the programs.
           The entire curriculum and staff did not disappoint. They wer very hands&dash;on and I never had to wait long for assistance.
           The agile team project, in particular, was outstanding. It took my learning to the next level in a way that no tutorial could ever have.
-          In fact, I've often referred to it during interviews as an example of my development experience. it certainly helped me land a job as a
+          In fact, I&apos;ve often referred to it during interviews as an example of my development experience. it certainly helped me land a job as a
           full&ndash;stack developer after receiving multiple offers. 100&#37; recommend&#33; &quot;</p>
           </div>
 
